@@ -13,9 +13,6 @@ Paper replication for B. Staar, M. Lutjen, and M. Freitag, “Anomaly detection 
 ### Paper Abstract
 Over the recent years, Convolutional Neural Networks (CNN) have become the primary choice for many image-processing problems. Regarding industrial applications, they are hence especially interesting for automated optical quality inspection. However, with well-optimized processes, it is often not possible to obtain a sufficiently large set of defective samples for CNN-based classification and the training objective shifts from defect classification to anomaly detection. Here, we approach this problem with deep metric learning using triplet networks. Our evaluation shows promising results that even translate to novel defect classes, which were not part of the training data.
 
-### Repo and Code Owner
-Tareq Tayeh - ttayeh@uwo.ca
-
 ### How to Run
 • Ensure you have IPython installed (I use it via Jupyter Notebooks and Anaconda). <br />
 • Ensure you have installed all the essential libraries mentioned in the first cell in the IPython code file. <br />
